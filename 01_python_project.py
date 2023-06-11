@@ -1,3 +1,5 @@
+#python minor project on stopwatch
+#By Anushka Soni CSE(A)
 import time
 
 def stopwatch():
@@ -10,7 +12,7 @@ def stopwatch():
     elapsed_time = end_time - start_time
     print(f"Elapsed time: {elapsed_time} seconds")
 
-# Example usage:
+
 stopwatch()
 
 
